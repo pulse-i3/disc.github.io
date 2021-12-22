@@ -1,5 +1,5 @@
 body {
-	background: aqua ;
+	background: palegreen ;
 	color: #ccc ;
 	max-width: 800px ;
 	margin: auto ;
@@ -8,13 +8,6 @@ body {
 	font-family: sans-serif ;
 }
 
-a {
-	color: lightblue ;
-}
-
-a:visited {
-	color: gray ;
-}
 
 h1 {
 	color: blueviolet;
@@ -46,12 +39,6 @@ code {
 	body {
 		background: palegreen ;
 		color: black ;
-	}
-	a {
-		color: blue ;
-	}
-	a:visited {
-		color: purple ;
 	}
 	h2 {
 		color: inherit ;
