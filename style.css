@@ -8,7 +8,6 @@ body {
 	font-family: sans-serif ;
 }
 
-
 h1 {
 	color: blueviolet;
 	text-align: center ;
@@ -29,29 +28,17 @@ img {
 	display: block ;
 }
 
-code {
-	overflow-wrap: break-word ;
-	color: lime ;
-}
-
 
 @media (prefers-color-scheme: light) {
 	body {
 		background: palegreen ;
 		color: black ;
 	}
-	h2 {
-		color: inherit ;
-	}
-	code {
-		color: forestgreen ;
-	}
 }
 
 @media print {
 	a[href] {
 		text-decoration: none ;
-		color: black ;
 	}
 }
 
